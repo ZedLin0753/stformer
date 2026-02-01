@@ -1,0 +1,1 @@
+from torchinfo import summary
